@@ -1,0 +1,44 @@
+body{
+    background:linear-gradient(45deg,rgb(138, 214, 138),rgb(243, 211, 152),yellow);
+    font-family: 'Comic Neue', cursive;
+   
+    
+}
+span{
+text-decoration: none;
+}
+.navbar{
+    text-align: center;
+}
+h1
+{
+    font-size: 30px;
+   text-align:center;
+    
+}
+h2{
+    background:linear-gradient(45deg,red,black,red);
+    color:white;
+    border:2px solid darkred;
+    text-align:center;
+    height:30px;
+    width:500px;
+    padding:10px;
+    margin:auto;
+    border-radius: 50%;s
+    box-shadow: 0px 0px 10px black;
+}
+p{
+    text-align:center;
+}
+table{
+    width:100%;
+    text-align: center;
+
+}
+img{
+    height:300px;
+    width:400px;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 15px;
+}
